@@ -1,6 +1,4 @@
 #This file is SMS Spam filter codes with different classifiers in R language
-#Written by: Reza Rahimi 
-
 #Initialization : Reading Raw Data (http://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection), 
 #loading required packeges, libraries and function declaration
 
